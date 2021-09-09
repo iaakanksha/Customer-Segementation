@@ -3,7 +3,7 @@
 <img src="https://media.istockphoto.com/photos/target-market-picture-id544732934?k=20&m=544732934&s=612x612&w=0&h=GCXbWxO3ZAC6H987vOCeSUYk-sbzNJcaD00cJw6RFJw=" alt etxt="image">
  </p>
  
- ## Customer Segmentation 
+ <h2 align="center">Customer Segmentation </h2> 
 
 Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits,etc.
 
