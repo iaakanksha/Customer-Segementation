@@ -1,11 +1,15 @@
 
-# Customer Segmentation 
+<p align="center">
+<img src="https://media.istockphoto.com/photos/target-market-picture-id544732934?k=20&m=544732934&s=612x612&w=0&h=GCXbWxO3ZAC6H987vOCeSUYk-sbzNJcaD00cJw6RFJw=" alt etxt="image">
+ </p>
+ 
+ ## Customer Segmentation 
 
 Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits,etc.
 
 Its a beginner friendly Machine Learning model of CUSTOMER SEGMENTATION using K-Means clustering. One can easily convert it into end-to-end project , just copy this code and save the same code as .pkl file using pickle library and just deploy over any cloud platform of your choice.  
 
-![alt text](https://media.istockphoto.com/photos/target-market-picture-id544732934?k=20&m=544732934&s=612x612&w=0&h=GCXbWxO3ZAC6H987vOCeSUYk-sbzNJcaD00cJw6RFJw=)
+
 ## 🚀 About Me
 Namaste!!
 
